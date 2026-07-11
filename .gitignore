@@ -1,1 +1,8 @@
-.pth
+# ignore pycache folder
+src/__pycache__
+
+#ignore model
+*.pth
+
+# Python environment
+.env
