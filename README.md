@@ -31,8 +31,8 @@ The disease classification model is built using **EfficientNet-B0** with transfe
 ### Clone the repository
 
 ```bash
-git clone https://github.com/shyam503/Crop-Disease-Detector.git
-cd Crop-Disease-Detector
+git clone https://github.com/shyam503/crop-disease-detector.git
+cd drop-disease-detector
 ```
 
 ## Run the Application
